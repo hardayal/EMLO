@@ -1,4 +1,4 @@
-# Session 1 MLOPs Introduction and Version Control
+# Session 1 - MLOPs Introduction and Version Control
 
 ## DVC
 Data Version Control, or DVC, is a data and ML experiment management tool that takes advantage of the existing toolset (Git, CI/CD).
